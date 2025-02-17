@@ -38,10 +38,10 @@ I'm a **Computer Science student** and an **aspiring backend developer**, deeply
 
 ## 💼 **Badges**
 
-## 💼 **Badges**
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)  
 &nbsp;&nbsp;
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)  
 &nbsp;&nbsp;
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+
