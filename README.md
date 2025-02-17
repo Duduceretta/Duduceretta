@@ -21,28 +21,9 @@ I'm a **Computer Science student** and an **aspiring backend developer**, deeply
 ## 🛠️ **Technologies & Tools**
 
 - **Languages:** Python, Java, C, SQL  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker, VS Code, Jupyter  
-- **Frameworks:** Spring, Flask
-
----
-
-## 🚀 **Projects**
-
-Check out some of my notable projects:
-
-- [AI Research Projects](https://github.com/yourusername/project1)  
-- [Backend Systems & APIs](https://github.com/yourusername/project2)  
-- [Database Design & Queries](https://github.com/yourusername/project3)
-
----
-
-## 📫 **Let's Connect**
-
-Feel free to reach out to me on:
-
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- [Email](mailto:youremail@example.com)
+- **Databases:** MySQL, SQL Server  
+- **Tools:** Git, VS Code  
+- **Frameworks:** Spring
 
 ---
 
