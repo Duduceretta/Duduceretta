@@ -13,7 +13,7 @@ Atualmente, estou mergulhado no universo de Inteligência Artificial, desenvolve
 
 ### 📊 Minhas Estatísticas no GitHub
 <div  align="center" style="margin-bottom:10px">
-<img width=54% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Duduceretta&theme=radical&mode=weekly" />
+<img width=54% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Duduceretta&theme=radical&mode=weekly&cache_bust=123" />
   &nbsp;&nbsp;&nbsp;
 <img width=38% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Duduceretta&show_icons=true&theme=radical&layout=compact&hide=jupyter%20notebook,html,css,tex" />
  </div>
